@@ -1,0 +1,5 @@
+git clone https:github.com/iTeam-co/Tabchi
+cd Tabchi
+chmod 777 install.sh
+./install.sh
+lua creator.lua
